@@ -4,4 +4,8 @@ class ApplicationController < ActionController::Base
   def thing
     'something'
   end
+  
+  def paul
+    'paul'
+  end
 end
